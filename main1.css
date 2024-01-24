@@ -10,7 +10,7 @@
   .nav {
     height: 50px;
     width: 100%;
-    background-color: #4d4d4d;
+    background-color: #23e611;
     position: relative;
   }
   
@@ -70,13 +70,13 @@
       display: block;
       width: 25px;
       height: 10px;
-      border-top: 2px solid #eee;
+      border-top: 2px solid #f8f407;
     }
     .nav > .nav-links {
       position: absolute;
       display: block;
       width: 100%;
-      background-color: #333;
+      background-color: #0ee01f;
       height: 0px;
       transition: all 0.3s ease-in;
       overflow-y: hidden;
